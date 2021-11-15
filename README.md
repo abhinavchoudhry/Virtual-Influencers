@@ -1,4 +1,4 @@
-* Virtual Humans Profile Database
+# Virtual Humans Profile Database
 
 Please cite our paper if you need our dataset as follows:
 
